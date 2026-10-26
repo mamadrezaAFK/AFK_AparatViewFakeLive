@@ -35,12 +35,5 @@ Designed for performance and scalability, this engine handles hundreds of concur
 - **📊 Persistent Heartbeat Pipeline:** Automated background loops maintaining stable session states and heartbeat packets to ensure accurate stream connection metrics.
 - **🌐 100% Standalone & Modular:** Easy to configure, integrate, and deploy on high-speed Linux/Windows VPS environments.
 
----
 
-## 🏗️ Project Structure
-```text
-Aparat-Async-ViewBot/
-├── main.py               # Core Asynchronous Execution & Event Loop
-├── config.json           # Stream Target URL & Proxy Configuration
-├── requirements.txt      # Python Dependencies (curl_cffi, asyncio)
-└── README.md             # Documentation & Usage Guide
+
